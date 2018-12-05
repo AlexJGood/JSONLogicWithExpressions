@@ -1,0 +1,8 @@
+c:\users\goodale\documents\visual studio 2015\Projects\ExpressionTest\ExpressionTest\bin\Debug\ExpressionTest.exe.config
+c:\users\goodale\documents\visual studio 2015\Projects\ExpressionTest\ExpressionTest\obj\Debug\ExpressionTest.csprojResolveAssemblyReference.cache
+c:\users\goodale\documents\visual studio 2015\Projects\ExpressionTest\ExpressionTest\bin\Debug\ExpressionTest.exe
+c:\users\goodale\documents\visual studio 2015\Projects\ExpressionTest\ExpressionTest\bin\Debug\ExpressionTest.pdb
+c:\users\goodale\documents\visual studio 2015\Projects\ExpressionTest\ExpressionTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\goodale\documents\visual studio 2015\Projects\ExpressionTest\ExpressionTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\goodale\documents\visual studio 2015\Projects\ExpressionTest\ExpressionTest\obj\Debug\ExpressionTest.exe
+c:\users\goodale\documents\visual studio 2015\Projects\ExpressionTest\ExpressionTest\obj\Debug\ExpressionTest.pdb
